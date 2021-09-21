@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Kreativ505
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Kreativ505/Kreativ505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in crypto currencies and how to code
+- 🌱 I’m currently learning what the hell is coding
+- 💞️ I’m looking to collabo with anyone who gat the patience
